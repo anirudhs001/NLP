@@ -26,7 +26,8 @@ A RAG chatbot which fetches the documentation of a GitHub repository and uses th
 
 ## Sample Output
 
-Here's a sample output of the RAG Chatbot:
+Here's a sample with the documentation of the [CLAY library](https://github.com/nicbarker/clay).  
+CLAY is a layout library written completely in C
 
 ```
 User: How do I create a window using clay?
@@ -56,7 +57,7 @@ int main() {
     return 0;
 }
 ```
-
+Amazing!
 ## License
 
 MIT.
